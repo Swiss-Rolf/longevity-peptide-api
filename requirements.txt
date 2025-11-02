@@ -1,0 +1,8 @@
+# requirements.txt
+fastapi
+pandas
+scikit-learn
+joblib
+peptides
+gunicorn
+uvicorn
